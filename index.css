@@ -7,52 +7,52 @@ p {
 }
 
 .qr-code-component-wrapper {
-  width: 320px;
-  height: 497px;
+  width: 20rem;
+  height: 31.0625rem;
   background-color: #ffffff;
   border-radius: 20px;
-  margin: 152px auto 151px;
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  margin: 9.5rem auto 9.4375rem;
+  filter: drop-shadow(0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25));
 }
 
 .qr-code-component-oval {
   display: inline-block;
-  width: 288px;
-  height: 288px;
+  width: 18rem;
+  height: 18rem;
   border-radius: 10px;
-  margin: 16px 16px 24px 16px;
+  margin: 1rem 1rem 1.5rem 1rem;
 }
 
 .qr-code-component-image {
   object-fit: cover;
-  width: 288px;
-  height: 288px;
+  width: 18rem;
+  height: 18rem;
 }
 
 .qr-code-component-text-wrapper {
-  width: 288px;
-  height: 129px;
-  margin: 0 16px 40px 16px;
+  width: 18rem;
+  height: 8.0625rem;
+  margin: 0 1rem 2.5rem 1rem;
 }
 
 .qr-code-component-text-title {
   font-family: 'Outfit', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
-  line-height: 28px;
+  font-size: 1.375rem;
+  line-height: 1.75rem;
   text-align: center;
   color: #1f314f;
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
 }
 
 .qr-code-component-text-subtitle {
   font-family: 'Outfit', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 15px;
-  line-height: 19px;
+  font-size: 0.9375rem;
+  line-height: 1.1875rem;
   text-align: center;
-  letter-spacing: 0.1875px;
+  letter-spacing: 0.0117rem;
   color: #7d889e;
 }
